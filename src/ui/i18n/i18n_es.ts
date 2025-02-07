@@ -513,7 +513,7 @@
     </message>
     <message>
         <source>Block LAN Traffic</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloquear tráfico LAN</translation>
     </message>
 </context>
 <context>
@@ -1107,7 +1107,7 @@
     </message>
     <message>
         <source>Import new programs</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar nuevos programas</translation>
     </message>
 </context>
 <context>
@@ -1150,7 +1150,7 @@ Asegúrese de tener una copia de seguridad reciente.</translation>
     </message>
     <message>
         <source>Only new Programs will be added after successful import. Continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Solo se añadirán los nuevos programas después de una importación exitosa. ¿Continuar?</translation>
     </message>
 </context>
 <context>
